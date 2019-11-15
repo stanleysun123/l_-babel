@@ -1,0 +1,28 @@
+{
+  "name": "l_babel",
+  "version": "1.0.0",
+  "description": "learn babel",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-transform-arrow-functions": "^7.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleysun123/l_-babel.git"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "stanley sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanleysun123/l_-babel/issues"
+  },
+  "homepage": "https://github.com/stanleysun123/l_-babel#readme"
+}
